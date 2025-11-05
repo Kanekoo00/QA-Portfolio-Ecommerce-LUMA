@@ -21,6 +21,7 @@ Fitur yang diuji dalam proyek ini:
 - Ensure error messages appear properly for negative test cases
 
 ## 📄 Test Case Document
+Untuk Test Case yang digunakan bisa di cek disini :
 [TestCase Dokumen](https://docs.google.com/spreadsheets/d/1yZdN8JufFR_pr3Pm_XCseSZuXsyFjWpGKbihG84lqjc/edit?usp=sharing)
 
 ## 📄 Evidance
