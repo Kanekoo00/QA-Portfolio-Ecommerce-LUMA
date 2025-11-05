@@ -1,7 +1,8 @@
 # QA Portfolio – E-Commerce (LUMA)
 
-Proyek ini berisi test case manual untuk aplikasi **E-Commerce LUMA** sebagai bagian dari portfolio QA.  
-Tujuan dari proyek ini adalah untuk menunjukkan kemampuan dalam menyusun test case, melakukan eksekusi, serta mendokumentasikan hasil pengujian dengan rapi dan terstruktur.
+Project: E-Commerce LUMA – Manual Test Cases
+Role: Quality Assurance (Manual Tester / QA Engineer)
+Tools: Google Sheets, Chrome DevTools, Test Case Design, Manual Testing
 
 ---
 
@@ -14,4 +15,23 @@ Fitur yang diuji dalam proyek ini:
 
 ---
 
-## 📂 Struktur Repository
+## 🎯 Test Objectives
+- Validate successful account creation using valid data
+- Verify system behavior when invalid or incomplete data is submitted
+- Ensure error messages appear properly for negative test cases
+
+## 📄 Test Case Document
+[TestCase Dokumen](https://docs.google.com/spreadsheets/d/1yZdN8JufFR_pr3Pm_XCseSZuXsyFjWpGKbihG84lqjc/edit?usp=sharing)
+
+## 🧠 Key Learnings
+- Understanding input validation & negative testing
+- Creating structured manual test cases
+- Documenting expected & actual results
+
+## 💼 Author
+
+- Budi Octaviandy – Manual QA & PL/SQL Developer
+
+🔗 LinkedIn: [My Linkedin Profile](https://www.linkedin.com/in/budi-octaviandy-56a4311a0/)
+
+
