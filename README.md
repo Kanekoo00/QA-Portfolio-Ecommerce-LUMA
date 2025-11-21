@@ -24,7 +24,7 @@ Fitur yang diuji dalam proyek ini:
 Untuk Test Case yang digunakan bisa di cek disini :
 [TestCase Dokumen](https://docs.google.com/spreadsheets/d/1yZdN8JufFR_pr3Pm_XCseSZuXsyFjWpGKbihG84lqjc/edit?usp=sharing)
 
-## 📄 Evidance
+## 📄 Evidence
 Untuk bukti Test case Evidance ada disini : 
 [Evidance](https://drive.google.com/file/d/1yGWWc1BOsgCAJ_uiPoh4JWzCjATjQInw/view?usp=sharing)
 
